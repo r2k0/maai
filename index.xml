@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>maai-systems</title>
+    <link>http://maai.systems/</link>
+    <description>Recent content on maai-systems</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://maai.systems/index.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>
